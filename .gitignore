@@ -1,0 +1,17 @@
+*.DS_Store
+.idea/
+node_modules/
+.venv/
+output/
+config.json
+fonts/
+package.json
+package-lock.json
+scripts/
+assets/raw/
+assets/heroes/
+assets/heroes-recrop-test/
+assets/heroes-recrop-test2/
+assets/characters/06_lavender.png
+assets/characters/09_picnic_basket.png
+assets/characters/pochacco_tiles_preview_v6_fixed_direction.png
