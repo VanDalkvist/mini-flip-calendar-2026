@@ -16,8 +16,8 @@ open index.html
 
 Current month mapping:
 
-- `January` → `04_camping` (temporary, pending new image)
-- `February` → `14_tea_garden` (temporary, pending new image)
+- `January` → `15_sleepy_bed`
+- `February` → `16_winter_sled`
 - `March` → `10_flower_garden`
 - `April` → `09_picnic_basket`
 - `May` → `07_lily_bottle`
