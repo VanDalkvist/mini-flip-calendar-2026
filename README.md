@@ -16,15 +16,15 @@ open index.html
 
 Current month mapping:
 
-- `January` → `04_camping`
-- `February` → `14_tea_garden`
-- `March` → `07_lily_bottle`
-- `April` → `11_rain_umbrella`
-- `May` → `10_flower_garden`
+- `January` → `04_camping` (temporary, pending new image)
+- `February` → `14_tea_garden` (temporary, pending new image)
+- `March` → `10_flower_garden`
+- `April` → `09_picnic_basket`
+- `May` → `07_lily_bottle`
 - `June` → `01_flower_basket`
 - `July` → `02_bee`
-- `August` → `13_beach_star`
-- `September` → `03_fishing`
-- `October` → `12_apples`
-- `November` → `05_harvest_hat`
-- `December` → `08_autumn_book`
+- `August` → `04_camping`
+- `September` → `11_rain_umbrella`
+- `October` → `08_autumn_book`
+- `November` → `03_fishing`
+- `December` → `12_apples`
